@@ -11,6 +11,7 @@
     Merhaba, bu proje kişisel gelişim amacıyla geliştirilmiştir. Proje Asp.NET Core 6.0, soğan mimarisi, MVC yapısı kullanılarak geliştirilmiştir.
     Projenin motivasyonu, satıcı platform ile alıcı platformunu orta noktada buluşturmaktır.
   </p>
+  <img src="~/Images/CoreLayer.png" />
   <br>
   <p>
     Daha fazla detay, proje güncellendikçe eklenecektir.
